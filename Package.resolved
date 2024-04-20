@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "c9c3df6ab812de32bae61fc0cd1bf6d45170ebf0",
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "networkinglayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BlackMirrorz/NetworkingLayer.git",
+      "state" : {
+        "revision" : "c9cdc22583e6c07acca8f756165537e7a2829df3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "purchases-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RevenueCat/purchases-ios.git",
+      "state" : {
+        "revision" : "a9763ca482d52ea3d59aa2dfd2fc23427b02dada",
+        "version" : "4.40.1"
+      }
+    }
+  ],
+  "version" : 2
+}
